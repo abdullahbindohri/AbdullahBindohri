@@ -708,8 +708,15 @@ p {
 	#projects .project-info h1 {
 		font-size: 2rem;
 		}
+
+
+	.section-title {
+			font-size: 3.5rem;
+		}
 	
 }
+
+
 
 /* End Media Query For Tablet */
 
